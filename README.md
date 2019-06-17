@@ -6,7 +6,7 @@ To predict whether a mortgage will be funded using only this application data, c
 
 [competition link](https://www.crowdanalytix.com/contests/propensity-to-fund-mortgages)
 
-[solution]('code/Mortgage acceptance prediction.ipynb')
+[solution](https://github.com/NishantBhavsar/propensity_to_fund_mortgages/blob/master/code/Mortgage%20acceptance%20prediction.ipynb)
 
 #### Objective
 
